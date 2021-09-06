@@ -1,3 +1,4 @@
 Here is some information about my first change in project.
 first i have to commit
+Then edit and commit again
 then make merge request
