@@ -6,5 +6,4 @@ void main(){
     for (check_loop; check_loop<MAX_LOOP;check_loop++){
         check_loop++;
     }
-    printf("done");
 }
