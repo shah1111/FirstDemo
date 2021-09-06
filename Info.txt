@@ -1,0 +1,3 @@
+Here is some information about my first change in project.
+first i have to commit
+then make merge request
